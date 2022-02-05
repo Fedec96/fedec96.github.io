@@ -1,3 +1,1 @@
-# fedec96
-## .github
-### .io
+# fedec96.github.io
